@@ -29,10 +29,7 @@ using namespace std;
 
 int main(){
 
-       /*  Read input as specified in the question.
-	* Print output as specified in the question.
-	*/
-  	 int N;
+  	int N;
 	cin>>N;
     int i=1;
     while(i<=N)
